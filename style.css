@@ -1,0 +1,76 @@
+.bb{
+    background-image: url("Appleimages/hero_atv_mls__5wepv1q81kyy_small_2x.jpg");
+    width: 100%;
+    height: 550px;
+    background-size: 100% 100%;
+    display: flex;
+    justify-content:center;
+    align-items: end;
+    margin-bottom: 30px;
+}
+.ip{
+    background-image: url(./Appleimages/hero_iphone15pro__i70z9oz3hj2i_large.jpg);
+    width: 100%;
+    height: 550px;
+    background-size: 100% 100%;
+    display: flex;
+    justify-content:center;
+    
+}
+.lit{
+    background-image: url(./Appleimages/hero_iphone15_announce__uuemlcwczn6u_small_2x.jpg);
+    width: 100%;
+    height: 550px;
+    background-size: 100% 100%;
+}
+
+ .left{
+    background-image: url(./Appleimages/promo_apple_vision_pro_avail__gnjm0cdaluq2_large_2x.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 550px;
+    background-size: 100% 90%;
+    float: right;
+ }
+    
+ .right{
+    background-image: url(./Appleimages/promo_apple_watch_series_9_order__b3u85rm9zf6u_large_2x.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 550px;
+    background-size: 100% 90%;
+    float: left;
+    display: inline block;
+}
+.tt{
+    margin-top: 350px;
+    text-align: center;
+}
+.ri{
+    background-image: url(./Appleimages/promo_mbp__ek7p477bkp6q_small.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 550px;
+    background-size: 100% 80%;
+    float: left;
+    display: inline block;
+}
+.le{
+    background-image: url(./Appleimages/promo_ipad__fioegapg12qi_small.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 550px;
+    background-size: 100% 80%;
+    float: left;
+    display: inline block;
+}
+.d{
+    display: flex;
+    margin-top: -40px;
+}
+.lorem{
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 2px;
+    font-size: smaller;
+}
